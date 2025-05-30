@@ -2,7 +2,7 @@
  Hi, I'm Dwarampudi S L A Varshini 👋<br><br>A Computer Science student passionate about **cybersecurity**, actively working on various cyber projects.<br><br>🎓 Education: B.Tech in Computer Science Engineering<br><br>🚀 Currently Learning: Cybersecurity<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amrutha-varshini-dwarampudi-a42a37252/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amruthavarshinidwarampudi@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://linkedin.com/in/https://www.linkedin.com/in/amrutha-varshini-dwarampudi-a42a37252/)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amruthavarshinidwarampudi@gmail.com) 
 
 # 💻 Tech Stack:
 <p>
